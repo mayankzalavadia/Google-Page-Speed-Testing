@@ -1,0 +1,14 @@
+body{
+    width: 200px;
+    text-align: center;
+}
+#checkDesktopPage, #checkMobilePage {
+    padding: 10px;
+    background: #1976d2;
+    color: #ffffff;
+    margin: 5px 0;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    cursor: pointer;
+}

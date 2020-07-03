@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+
+    "name": "Google Page Speed Testing",
+    "description": "This extension will test a page in google page speed insight",
+    "version": "1.0",
+
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
